@@ -1,65 +1,65 @@
 const galleryItems = [
   {
     preview:
-      '/src/images/pexels-andy-vu-3244513_340.jpg',
+      'images/pexels-andy-vu-3244513_340.jpg',
     original:
-      '/src/images/andy-vu-3244513_1280.jpg',
+      'images/andy-vu-3244513_1280.jpg',
     description: 'andy-vu',
   },
   {
     preview:
-      '/src/images/pexels-eberhard-grossgasteiger-572897_340.jpg',
+      'images/pexels-eberhard-grossgasteiger-572897_340.jpg',
     original:
-      '/src/images/eberhard-grossgasteiger-572897_1280.jpg',
+      'images/eberhard-grossgasteiger-572897_1280.jpg',
     description: 'Горы, покрытые снегом под звездой',
   },
   {
     preview:
-      '/src/images/pexels-frans-van-heerden-624015_340.jpg',
+      'images/pexels-frans-van-heerden-624015_340.jpg',
     original:
-      '/src/images/frans-van-heerden-624015_1280.jpg',
+      'images/frans-van-heerden-624015_1280.jpg',
     description: 'Северное сияние',
   },
   {
     preview:
-      '/src/images/pexels-luis-del-río-15286_340.jpg',
+      'images/pexels-luis-del-río-15286_340.jpg',
     original:
-      '/src/images/luis-del-río-15286_1280.jpg',
+      'images/luis-del-río-15286_1280.jpg',
     description: 'Человек идет между зелеными лесными деревьями',
   },
   {
     preview:
-      '/src/images/pexels-asad-photo-maldives-3293148_340.jpg',
+      'images/pexels-asad-photo-maldives-3293148_340.jpg',
     original:
-      '/src/images/pexels-asad-photo-maldives-3293148_1280.jpg',
+      'images/pexels-asad-photo-maldives-3293148_1280.jpg',
     description: 'Силуэт человека на качелях',
   },
   {
     preview:
-      '/src/images/pexels-evgeny-tchebotarev-4101555_1280.jpg',
+      'images/pexels-evgeny-tchebotarev-4101555_1280.jpg',
     original:
-      '/src/images/pexels-evgeny-tchebotarev-4101555_1280.jpg',
+      'images/pexels-evgeny-tchebotarev-4101555_1280.jpg',
     description: 'Фотография горы под пасмурным небом',
   },
   {
     preview:
-      '/src/images/pexels-jeremy-bishop-2422915_340.jpg',
+      'images/pexels-jeremy-bishop-2422915_340.jpg',
     original:
-      '/src/images/pexels-jeremy-bishop-2422915_1280.jpg',
+      'images/pexels-jeremy-bishop-2422915_1280.jpg',
     description: 'Фото стручка дельфинов',
   },
   {
     preview:
-      '/src/images/pexels-sam-kolder-2387873_340.jpg',
+      'images/pexels-sam-kolder-2387873_340.jpg',
     original:
-      '/src/images/pexels-sam-kolder-2387873_1280.jpg',
+      'images/pexels-sam-kolder-2387873_1280.jpg',
     description: 'Трое мужчин, стоящих у водопадов',
   },
   {
     preview:
-      '/src/images/pexels-stein-egil-liland-3408744_340.jpg',
+      'images/pexels-stein-egil-liland-3408744_340.jpg',
     original:
-      '/src/images/stein-egil-liland-3408744_1280.jpg',
+      'images/stein-egil-liland-3408744_1280.jpg',
     description: 'Живописный вид на заснеженные горы ночью',
   },
 ];
